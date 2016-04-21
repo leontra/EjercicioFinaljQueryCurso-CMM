@@ -1,6 +1,5 @@
 $(document).ready(function()
 {
-var gallery = $('.gallery a').simpleLightbox();
 
-        
+         $('#headerContainer').css('background' , '#DCDFE2');
 });
